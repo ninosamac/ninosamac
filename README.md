@@ -26,6 +26,6 @@ You may have wondered about Cindarella's prince for not remembering her face. Bu
 ### How to reach me:
 
 - https://www.linkedin.com/in/ninosamac
-- nino.samac@gmail.com
+
 
 
