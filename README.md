@@ -15,17 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Full-stack Java Developer, working in banking industry.
-- Test, or it didn't happen.
-- Currently learning Android.
+https://back.intesa.com
 
-### Fun fact: 
+Hi there! 
 
-You may have wondered about Cindarella's prince for not remembering her face. But did you ever wonder how Little Red Riding Hood mistook a hungry wolf for her grandmother?
-
+<!--
 ### How to reach me:
 
 - https://www.linkedin.com/in/ninosamac
-
+-->
 
 
