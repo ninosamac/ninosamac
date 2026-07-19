@@ -24,5 +24,8 @@ Hi there!
 
 - https://www.linkedin.com/in/ninosamac
 
+Or if you are into music:
+
+- https://www.vinoigitare.com/
 
 
